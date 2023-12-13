@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# UniPatas
 
-## Getting Started
+Bem-vindo ao repositório da UniPatas! Este projeto é mais do que uma plataforma, é um compromisso com a causa animal e a utilização da tecnologia para dar visibilidade a esses companheiros de quatro patas. A UniPatas foi desenvolvida utilizando tecnologias modernas, como Next.js, JavaScript e Tailwind CSS na parte visual.
 
-First, run the development server:
+## Sobre o Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A UniPatas é uma plataforma dedicada a promover a conscientização e visibilidade para a causa animal. Nossa missão é utilizar a tecnologia de forma inovadora para criar uma comunidade engajada e comprometida com o bem-estar dos animais. Ao utilizar Next.js, JavaScript e Tailwind CSS, buscamos oferecer uma experiência envolvente e intuitiva para todos os usuários.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Agradecimentos
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Quero expressar minha profunda gratidão à incrível equipe por trás da UniPatas. Cada membro desempenhou um papel fundamental no sucesso deste projeto. Juntos, enfrentamos desafios, celebramos conquistas e construímos algo significativo. Agradeço a cada um por sua dedicação e paixão pela causa animal.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Além disso, gostaria de agradecer a mim mesmo e a todos os momentos em que escolhi não desistir. Este projeto é o mais importante da minha vida profissional, e é incrível ver como a determinação e o trabalho árduo nos trouxeram até aqui.
 
-## Learn More
+Vamos continuar avançando, inspirados pela causa que nos uniu: o amor pelos animais.
 
-To learn more about Next.js, take a look at the following resources:
+## Contato
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Se você tiver alguma dúvida sobre a UniPatas, sinta-se à vontade para entrar em contato:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Pedro Cavalcanti
+  - Email: pedrocavalcanti.it@gmail.com
+  - LinkedIn: [https://www.linkedin.com/in/pedrocavti/]
 
-## Deploy on Vercel
+Juntos, fazemos a diferença!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
