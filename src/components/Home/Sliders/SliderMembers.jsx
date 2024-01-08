@@ -81,9 +81,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "A UniPatas é muito mais do que apenas um projeto de
+                        &quot;A UniPatas é muito mais do que apenas um projeto de
                           conclusão; é toda a minha essência como futuro
-                          profissional que almejo ser."
+                          profissional que almejo ser.&quot;
                         </span>
                       </div>
                     </div>
@@ -154,10 +154,10 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Esse projeto me desafiou a quebrar barreiras e
+                        &quot;Esse projeto me desafiou a quebrar barreiras e
                           aprendendo a construir coisas que nunca pensei que
                           conseguiria e aqui estou crescendo todos dias e
-                          tentando fazer dar certo."
+                          tentando fazer dar certo.&quot;
                         </span>
                       </div>
                     </div>
@@ -225,9 +225,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "A UniPatas é muito mais do que apenas um projeto de
+                        &quot;A UniPatas é muito mais do que apenas um projeto de
                           conclusão; é toda a minha essência como futuro
-                          profissional que almejo ser."
+                          profissional que almejo ser.&quot;
                         </span>
                       </div>
                     </div>
@@ -298,9 +298,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Desenvolver softwares, é desenvolver soluções
+                        &quot;Desenvolver softwares, é desenvolver soluções
                           modernas e acessíveis. Parte desse trabalho é pensar
-                          nas pessoas que utilizarão, e como isso as impactará."
+                          nas pessoas que utilizarão, e como isso as impactará.&quot;
                         </span>
                       </div>
                     </div>
@@ -375,9 +375,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "A UniPatas é muito mais do que apenas um projeto de
+                        &quot;A UniPatas é muito mais do que apenas um projeto de
                           conclusão; é toda a minha essência como o futuro
-                          profissional que almejo ser."
+                          profissional que almejo ser.&quot;
                         </span>
                       </div>
                     </div>
@@ -450,9 +450,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Este desafio me impulsiona a superar limites,
+                        &quot;Este desafio me impulsiona a superar limites,
                           aprendendo a criar o inimaginável. Cresço diariamente,
-                          buscando o sucesso constante."
+                          buscando o sucesso constante.&quot;
                         </span>
                       </div>
                     </div>
@@ -522,9 +522,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Criar softwares significa oferecer soluções modernas
+                        &quot;Criar softwares significa oferecer soluções modernas
                           e acessíveis, considerando o impacto positivo nas
-                          pessoas que os utilizarão."
+                          pessoas que os utilizarão.&quot;
                         </span>
                       </div>
                     </div>
@@ -597,9 +597,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Contribuir para esse projeto foi gratificante de
+                        &quot;Contribuir para esse projeto foi gratificante de
                           várias maneiras, observando o progresso da plataforma
-                          e seu promissor futuro."
+                          e seu promissor futuro.&quot;
                         </span>
                       </div>
                     </div>
@@ -672,9 +672,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Unir-se ao Unipatas é uma alegria indescritível, um
+                        &quot;Unir-se ao Unipatas é uma alegria indescritível, um
                           encontro de paixões em que o amor pela tecnologia se
-                          concretiza."
+                          concretiza.&quot;
                         </span>
                       </div>
                     </div>
@@ -747,9 +747,9 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Desafio-me além das expectativas, cresço diariamente
+                        &quot;Desafio-me além das expectativas, cresço diariamente
                           e me comprometo com o sucesso neste projeto
-                          profissional."
+                          profissional.&quot;
                         </span>
                       </div>
                     </div>
@@ -822,7 +822,7 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Minha paixão por tecnologia se funde à missão de criar soluções inovadoras. Cada código contribui para uma causa significativa."
+                        &quot;Minha paixão por tecnologia se funde à missão de criar soluções inovadoras. Cada código contribui para uma causa significativa.&quot;
                         </span>
                       </div>
                     </div>
@@ -893,7 +893,7 @@ export function SliderMembers() {
                       </div>
                       <div className="text-[12px] text-justify text-[#414e58] py-[5px] italic">
                         <span>
-                          "Paixão pela tecnologia: desafios inspiram-me, erros são oportunidades. Busco desenvolvimento, conexões e aprendizado constante."
+                        &quot;Paixão pela tecnologia: desafios inspiram-me, erros são oportunidades. Busco desenvolvimento, conexões e aprendizado constante.&quot;
                         </span>
                       </div>
                     </div>

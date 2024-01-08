@@ -14,7 +14,7 @@ export function SliderOngs() {
     <>
       <section className="Slider-ongs pt-[60px]">
         <h1 className=" text-center text-[30px] text-darker-purple font-black pb-[40px]">
-          Conheça as ONG's
+          Conheça as ONG&apos;s
         </h1>
 
         <div className=" max-w-[1246px] px-[50px] mx-auto ">
@@ -110,7 +110,7 @@ export function SliderOngs() {
                     </div>
                     <div className=" text-center text-white p-[3px]">
                       <span>
-                        "Salvando anjinhos de rua desde 2019 🐾💛"<br></br>
+                      &quot;Salvando anjinhos de rua desde 2019 🐾💛&quot;<br></br>
                         <br></br>
                         Recife - PE
                       </span>
@@ -135,8 +135,8 @@ export function SliderOngs() {
                     </div>
                     <div className=" text-center text-white p-[3px]">
                       <span>
-                        "Instituição que abriga temporariamente Cães e Gatos em
-                        situação de rua."<br></br>
+                      &quot;Instituição que abriga temporariamente Cães e Gatos em
+                        situação de rua.&quot;<br></br>
                         Recife - PE
                       </span>
                     </div>
@@ -160,7 +160,7 @@ export function SliderOngs() {
                     </div>
                     <div className=" text-center text-white p-[3px]">
                       <span>
-                        "Projeto independente em Recife, não somos ONG!""
+                      &quot;Projeto independente em Recife, não somos ONG!&quot;
                         <br></br>
                         <br></br>
                         Recife - PE
@@ -186,8 +186,8 @@ export function SliderOngs() {
                     </div>
                     <div className=" text-center text-white p-[3px]">
                       <span>
-                        "Projeto de extensão da UFPE. Só divulgamos animais
-                        castrados e saudáveis" <br></br>
+                      &quot;Projeto de extensão da UFPE. Só divulgamos animais
+                        castrados e saudáveis&quot; <br></br>
                         Recife - PE
                       </span>
                     </div>
@@ -211,7 +211,7 @@ export function SliderOngs() {
                     </div>
                     <div className=" text-center text-white p-[3px]">
                       <span>
-                        "Somos um abrigo de cães resgatados!" <br></br>
+                      &quot;Somos um abrigo de cães resgatados!&quot; <br></br>
                         <br></br>
                         Recife - PE
                       </span>
